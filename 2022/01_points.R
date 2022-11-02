@@ -1,3 +1,4 @@
+# #30DayMapChallenge Day 01: Points
 # Map of water mills in the Czech Republic
 # Data scraped from https://www.vodnimlyny.cz/
 # by Petr Pajdla
