@@ -38,5 +38,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-/data/
-/30dmpc_2021.png
+# ignore data folder
+/*/data/
+# ignore init picture
+/*/30dm*
+# ignore svg files
+/*/*.svg
+
