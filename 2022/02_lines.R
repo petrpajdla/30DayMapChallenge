@@ -91,9 +91,9 @@ ggplot() +
   theme(plot.background = element_rect(fill = "gray20"),
         legend.direction = "horizontal",
         legend.position = c(0.8, 0.1),
-        legend.text = element_text(family = "sans", color = "gray80", size = 10),
-        plot.caption = element_text(family = "sans", color = "gray80", size = 10),
-        text = element_text(family = "cabin", color = "gray80", size = 16)) +
+        legend.text = element_text(family = "sans", color = "gray80", size = 14),
+        plot.caption = element_text(family = "sans", color = "gray80", size = 14),
+        text = element_text(family = "cabin", color = "gray80", size = 20)) +
   labs(color = "",
        title = "Number of cycling trips to/from work recorded in\nBrno in the 'Bike to Work' challenge",
        subtitle = "May 2018 to 2022",
